@@ -1,0 +1,6 @@
+EQ Account 925637 opened.	Oct 22, 2014 7:33:41 PM
+EQ Credit Limit updated to: 8000.0	Oct 22, 2014 7:33:41 PM
+Charge of $500.00 for TV posted.	Oct 22, 2014 7:34:13 PM
+Payment of $75.00 posted.	Oct 22, 2014 7:34:28 PM
+Charge of $4.25 for Interest charged. posted.	Oct 22, 2014 7:34:37 PM
+Charge of $4.29 for Interest charged. posted.	Oct 22, 2014 7:35:11 PM

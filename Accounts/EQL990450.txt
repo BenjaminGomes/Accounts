@@ -1,0 +1,5 @@
+EQ Account 990450 opened.	Oct 22, 2014 7:50:14 PM
+EQ Credit Limit updated to: 4000.0	Oct 22, 2014 7:50:14 PM
+Charge of $100.00 for food posted.	Oct 22, 2014 7:50:18 PM
+Payment of $20.00 posted.	Oct 22, 2014 7:50:21 PM
+Charge of $1.20 for Interest charged. posted.	Oct 22, 2014 7:50:24 PM
